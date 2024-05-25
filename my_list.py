@@ -10,4 +10,5 @@ my_list.extend(second_list)
 my_list.pop()
 my_list.sort()
 
-print(my_list)
+print(my_list.index(30))
+#print(my_list)
